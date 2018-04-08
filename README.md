@@ -1,3 +1,3 @@
 # OverFile
 
-<img src="./image/Over.jpg">
+<img src=".image/Over.jpg">
