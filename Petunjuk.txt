@@ -1,0 +1,29 @@
+OVERFILE
+--------
+
+pytbon2 over.py
+
+
+
+UNTUK:
+------
+Mencopy Isi File [A]
+Lalu Di Di Overwiting Ke File [B]
+
+Awal Size File A Cuma 1 kb
+Hasil Over Ke File B Menjadi 1MB-1GB
+
+
+
+CONTOH:
+-------
+Pribadi Menggunakan Untuk Memperbanyak Text BLANK
+
+Lalu Text Blank Nya Pribadi Gunakan Untuk Membuat FB OVERLOAD
+
+
+Untuk TUTORIAL Bisa Di Lihat Di
+
+-------------------------------
+senitopeng.blogspot.com
+-------------------------------
